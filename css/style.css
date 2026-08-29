@@ -23,3 +23,17 @@ img{
     display: block; 
     margin: 10px auto;
 }
+nav {
+    display: inline-block;
+    width: 80%;
+}
+nav img {
+    width: 10%;
+}
+.grid {
+    display: grid;
+    grid-template-columns: 40% 40%;
+}
+.grid img {
+    border: 2px solid black;
+}
