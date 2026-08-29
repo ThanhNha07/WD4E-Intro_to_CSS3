@@ -1,11 +1,11 @@
-nav li {
+/* nav li {
     display: inline-block;
     width: 27%;
     text-align: center; 
     height: 100px;
     background-color: skyblue; 
     line-height: 100px;
-}
+} */
 nav a{
     text-decoration: none;
     color: black;
